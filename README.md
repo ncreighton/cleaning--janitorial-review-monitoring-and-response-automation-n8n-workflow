@@ -1,2 +1,28 @@
-# cleaning--janitorial-review-monitoring-and-response-automation-n8n-workflow
-Automate review monitoring and response for cleaning and janitorial businesses with this ready-to-use N8N workflow. Designed to save hours of manual work, it polls popular review platforms (Google My Business, Yelp, Facebook, etc.) for new reviews daily, filters them by sentiment, and generates tailored reply drafts. The workflow can post responses
+# Cleaning & Janitorial Review Monitoring and Response Automation N8N Workflow
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/eVqcN5dPpe2M6xy1Zid0b1N)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/eVqcN5dPpe2M6xy1Zid0b1N)
+
